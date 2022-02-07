@@ -1,0 +1,3 @@
+[submodule "My-Notes-frontend"]
+	path = My-Notes-frontend
+	url = https://github.com/adityamuley29/My-Notes-frontend.git
